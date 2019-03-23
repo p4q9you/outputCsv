@@ -1,0 +1,10 @@
+path :
+  INPUT_PATH : "C:\\Users\\m8oak\\Desktop\\各種データ\\temp\\test.xlsx"
+  OUTPUT_PATH : "C:\\Users\\m8oak\\Desktop\\各種データ\\temp\\output.csv"
+sheet :
+  TARGET1 : "シート1"
+  TARGET2 : "シート1 のコピー"
+outputcolumn :
+  TARGET1 : "1"
+  TARGET2 : "4"
+  TARGET3 : "3" 
